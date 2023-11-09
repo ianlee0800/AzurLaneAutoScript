@@ -1,0 +1,256 @@
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-10-27 23:59:22.260 | INFO | Assets extract                                                                        
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+                                                         START                                                         
+                                                         START                                                         
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-10-27 23:59:23.799 | INFO | [en] FLEET_NOT_PREPARED not found, use cn server assets                               
+2023-10-27 23:59:23.803 | INFO | [jp] FLEET_NOT_PREPARED not found, use cn server assets                               
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+2023-10-27 23:59:24.058 | INFO | [jp] DORM_FURNITURE_CONFIRM not found, use cn server assets                           
+2023-10-27 23:59:24.071 | INFO | [tw] DORM_FURNITURE_CONFIRM not found, use cn server assets                           
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-10-27 23:59:24.412 | INFO | Module: hard(3)                                                                       
+2023-10-27 23:59:24.610 | INFO | [tw] DOSSIER_REWARD_CHECK not found, use cn server assets                             
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-10-27 23:59:24.681 | INFO | Module: dorm(6)                                                                       
+2023-10-27 23:59:24.823 | INFO | [tw] DOSSIER_REWARD_ENTER not found, use cn server assets                             
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-10-27 23:59:25.195 | INFO | [tw] DOSSIER_REWARD_RECEIVE not found, use cn server assets                           
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                         START                                                         
+                                                         START                                                         
+2023-10-27 23:59:25.334 | INFO | [tw] META_REWARD_NOTICE not found, use cn server assets                               
+                                                         START                                                         
+2023-10-27 23:59:25.371 | INFO | Module: commission(9)                                                                 
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-10-27 23:59:25.502 | INFO | [tw] REWARD_CHECK not found, use cn server assets                                     
+2023-10-27 23:59:25.338 | INFO | Module: event(4)                                                                      
+2023-10-27 23:59:25.718 | INFO | [tw] REWARD_ENTER not found, use cn server assets                                     
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-10-27 23:59:25.736 | INFO | [tw] MAIL_EMPTY not found, use cn server assets                                       
+2023-10-27 23:59:25.875 | INFO | [tw] REWARD_RECEIVE not found, use cn server assets                                   
+2023-10-27 23:59:25.884 | INFO | Module: meta_reward(7)                                                                
+2023-10-27 23:59:25.634 | INFO | [tw] FLEET_1 not found, use cn server assets                                          
+2023-10-27 23:59:25.983 | INFO | Module: campaign(14)                                                                  
+2023-10-27 23:59:26.051 | INFO | [jp] BUILD_TICKET_COUNT not found, use cn server assets                               
+2023-10-27 23:59:26.059 | INFO | [tw] BUILD_TICKET_COUNT not found, use cn server assets                               
+2023-10-27 23:59:26.216 | INFO | [tw] FLEET_2 not found, use cn server assets                                          
+2023-10-27 23:59:26.267 | INFO | Module: os_combat(2)                                                                  
+2023-10-27 23:59:26.488 | INFO | Module: gacha(14)                                                                     
+2023-10-27 23:59:26.727 | INFO | Module: coalition(13)                                                                 
+2023-10-27 23:59:26.732 | INFO | Module: daily(16)                                                                     
+2023-10-27 23:59:26.883 | INFO | [tw] REWARD_RECEIVE not found, use cn server assets                                   
+2023-10-27 23:59:26.892 | INFO | [tw] CAMPAIGN_BONUS not found, use cn server assets                                   
+2023-10-27 23:59:26.946 | INFO | Module: exercise(16)                                                                  
+2023-10-27 23:59:26.975 | INFO | [en] GUILD_MISSION_CHOOSE not found, use cn server assets                             
+2023-10-27 23:59:26.982 | INFO | [jp] GUILD_MISSION_CHOOSE not found, use cn server assets                             
+2023-10-27 23:59:26.984 | INFO | [tw] GUILD_MISSION_CHOOSE not found, use cn server assets                             
+2023-10-27 23:59:26.996 | INFO | [jp] BATTLE_PASS_NOTICE not found, use cn server assets                               
+2023-10-27 23:59:27.002 | INFO | [tw] BATTLE_PASS_NOTICE not found, use cn server assets                               
+2023-10-27 23:59:27.037 | INFO | [en] GUILD_MISSION_NEW not found, use cn server assets                                
+2023-10-27 23:59:27.043 | INFO | [jp] GUILD_MISSION_NEW not found, use cn server assets                                
+2023-10-27 23:59:27.047 | INFO | [tw] GUILD_MISSION_NEW not found, use cn server assets                                
+2023-10-27 23:59:27.053 | INFO | [tw] REWARD_RECEIVE_SP not found, use cn server assets                                
+2023-10-27 23:59:26.765 | INFO | [tw] FLEET_3 not found, use cn server assets                                          
+2023-10-27 23:59:27.056 | INFO | Module: freebies(16)                                                                  
+2023-10-27 23:59:27.150 | INFO | [en] GUILD_MISSION_SELECT not found, use cn server assets                             
+2023-10-27 23:59:27.154 | INFO | [jp] GUILD_MISSION_SELECT not found, use cn server assets                             
+2023-10-27 23:59:27.156 | INFO | [tw] GUILD_MISSION_SELECT not found, use cn server assets                             
+2023-10-27 23:59:27.235 | INFO | [tw] ADD_NEW_STUDENT not found, use cn server assets                                  
+2023-10-27 23:59:27.291 | INFO | [tw] BOX_USE not found, use cn server assets                                          
+2023-10-27 23:59:27.309 | INFO | Module: statistics(3)                                                                 
+2023-10-27 23:59:27.325 | INFO | Module: reward(7)                                                                     
+2023-10-27 23:59:27.243 | INFO | [tw] ACTION_POINT_REMAIN_OS not found, use cn server assets                           
+2023-10-27 23:59:27.369 | INFO | [tw] FLEET_4 not found, use cn server assets                                          
+2023-10-27 23:59:27.608 | INFO | [tw] RAPID_TRAINING not found, use cn server assets                                   
+2023-10-27 23:59:27.637 | INFO | [tw] DISASSEMBLE not found, use cn server assets                                      
+2023-10-27 23:59:27.785 | INFO | Module: sos(8)                                                                        
+2023-10-27 23:59:28.009 | INFO | [tw] DISASSEMBLE_CANCEL not found, use cn server assets                               
+2023-10-27 23:59:28.034 | INFO | [jp] TEMPLATE_ASHEN_SIMULACRUM not found, use cn server assets                        
+2023-10-27 23:59:28.039 | INFO | [tw] TEMPLATE_ASHEN_SIMULACRUM not found, use cn server assets                        
+2023-10-27 23:59:28.056 | INFO | [jp] TEMPLATE_AURORA_NOCTIS not found, use cn server assets                           
+2023-10-27 23:59:28.061 | INFO | [tw] TEMPLATE_AURORA_NOCTIS not found, use cn server assets                           
+2023-10-27 23:59:28.088 | INFO | [tw] TEMPLATE_CRESCENDO_OF_POLARIS not found, use cn server assets                    
+2023-10-27 23:59:28.126 | INFO | [tw] TEMPLATE_CRIMSON_ECHOES not found, use cn server assets                          
+2023-10-27 23:59:28.182 | INFO | [jp] TEMPLATE_EMPYREAL_TRAGICOMEDY not found, use cn server assets                    
+2023-10-27 23:59:28.187 | INFO | [tw] TEMPLATE_EMPYREAL_TRAGICOMEDY not found, use cn server assets                    
+2023-10-27 23:59:28.323 | INFO | [tw] TEMPLATE_INK_STAINED_STEEL_SAKURA not found, use cn server assets                
+2023-10-27 23:59:28.338 | INFO | [en] TEMPLATE_INVERTED_ORTHANT not found, use cn server assets                        
+2023-10-27 23:59:28.341 | INFO | [jp] TEMPLATE_INVERTED_ORTHANT not found, use cn server assets                        
+2023-10-27 23:59:28.346 | INFO | [tw] TEMPLATE_INVERTED_ORTHANT not found, use cn server assets                        
+2023-10-27 23:59:28.355 | INFO | [tw] DISASSEMBLE_CONFIRM not found, use cn server assets                              
+2023-10-27 23:59:28.374 | INFO | [tw] GUILD_OPERATIONS_NEW not found, use cn server assets                             
+2023-10-27 23:59:28.381 | INFO | [tw] TEMPLATE_IRIS_OF_LIGHT_AND_DARK not found, use cn server assets                  
+2023-10-27 23:59:28.398 | INFO | [jp] TEMPLATE_MICROLAYER_MEDLEY not found, use cn server assets                       
+2023-10-27 23:59:28.402 | INFO | [tw] TEMPLATE_MICROLAYER_MEDLEY not found, use cn server assets                       
+2023-10-27 23:59:28.421 | INFO | [jp] TEMPLATE_NORTHERN_OVERTURE not found, use cn server assets                       
+2023-10-27 23:59:28.433 | INFO | [tw] TEMPLATE_NORTHERN_OVERTURE not found, use cn server assets                       
+2023-10-27 23:59:28.454 | INFO | [jp] TEMPLATE_SCHERZO_OF_IRON_AND_BLOOD not found, use cn server assets               
+2023-10-27 23:59:28.462 | INFO | [tw] TEMPLATE_SCHERZO_OF_IRON_AND_BLOOD not found, use cn server assets               
+2023-10-27 23:59:28.486 | INFO | [jp] TEMPLATE_SKYBOUND_ORATORIO not found, use cn server assets                       
+2023-10-27 23:59:28.490 | INFO | [tw] TEMPLATE_SKYBOUND_ORATORIO not found, use cn server assets                       
+2023-10-27 23:59:28.515 | INFO | [jp] TEMPLATE_STARS_OF_THE_SHIMMERING_FJORD not found, use cn server assets           
+2023-10-27 23:59:28.528 | INFO | [tw] TEMPLATE_STARS_OF_THE_SHIMMERING_FJORD not found, use cn server assets           
+2023-10-27 23:59:28.590 | INFO | [jp] TEMPLATE_SWIRLING_CHERRY_BLOSSOMS not found, use cn server assets                
+2023-10-27 23:59:28.592 | INFO | [tw] TEMPLATE_SWIRLING_CHERRY_BLOSSOMS not found, use cn server assets                
+2023-10-27 23:59:28.605 | INFO | [jp] TEMPLATE_THE_ENIGMA_AND_THE_SHARK not found, use cn server assets                
+2023-10-27 23:59:28.616 | INFO | [tw] TEMPLATE_THE_ENIGMA_AND_THE_SHARK not found, use cn server assets                
+2023-10-27 23:59:28.643 | INFO | [tw] TEMPLATE_UNIVERSE_IN_UNISON not found, use cn server assets                      
+2023-10-27 23:59:28.679 | INFO | [tw] GUILD_OPERATIONS_SOLOMON not found, use cn server assets                         
+2023-10-27 23:59:28.743 | INFO | [tw] TACTICAL_META not found, use cn server assets                                    
+2023-10-27 23:59:28.750 | INFO | Module: tactical(8)                                                                   
+2023-10-27 23:59:28.888 | INFO | [tw] DISASSEMBLE_POPUP_CONFIRM not found, use cn server assets                        
+2023-10-27 23:59:29.153 | INFO | [tw] SHOP_CORE_SWIPE_END not found, use cn server assets                              
+2023-10-27 23:59:29.256 | INFO | [jp] TEMPLATE_SIREN_SheffieldIdol not found, use cn server assets                     
+2023-10-27 23:59:29.260 | INFO | [tw] TEMPLATE_SIREN_SheffieldIdol not found, use cn server assets                     
+2023-10-27 23:59:29.415 | INFO | [tw] EQUIPMENT_ENTER not found, use cn server assets                                  
+2023-10-27 23:59:29.516 | INFO | [tw] SHOP_GIFT_SWIPE_END not found, use cn server assets                              
+2023-10-27 23:59:29.582 | INFO | Module: equipment(28)                                                                 
+2023-10-27 23:59:29.691 | INFO | [jp] META_AUTO_ATTACK_CONFIRM not found, use cn server assets                         
+2023-10-27 23:59:29.693 | INFO | [tw] META_AUTO_ATTACK_CONFIRM not found, use cn server assets                         
+2023-10-27 23:59:29.756 | INFO | [tw] EQUIPMENT_FILTER not found, use cn server assets                                 
+2023-10-27 23:59:29.807 | INFO | [jp] META_AUTO_ATTACK_START not found, use cn server assets                           
+2023-10-27 23:59:29.811 | INFO | [tw] META_AUTO_ATTACK_START not found, use cn server assets                           
+2023-10-27 23:59:29.841 | INFO | Module: template(204)                                                                 
+2023-10-27 23:59:29.960 | INFO | [tw] META_AUTO_CONFIRM not found, use cn server assets                                
+2023-10-27 23:59:29.971 | INFO | Module: war_archives(30)                                                              
+2023-10-27 23:59:30.077 | INFO | [tw] EQUIPMENT_FILTER_CONFIRM not found, use cn server assets                         
+2023-10-27 23:59:30.266 | INFO | Module: guild(31)                                                                     
+2023-10-27 23:59:30.395 | INFO | [tw] EQUIPMENT_FULL not found, use cn server assets                                   
+2023-10-27 23:59:30.565 | INFO | [tw] MATERIAL_CHECK not found, use cn server assets                                   
+2023-10-27 23:59:30.774 | INFO | [jp] GET_SKIN not found, use cn server assets                                         
+2023-10-27 23:59:30.776 | INFO | [tw] GET_SKIN not found, use cn server assets                                         
+2023-10-27 23:59:30.789 | INFO | [jp] RETIRE_SETTING_1 not found, use cn server assets                                 
+2023-10-27 23:59:30.792 | INFO | [tw] RETIRE_SETTING_1 not found, use cn server assets                                 
+2023-10-27 23:59:30.808 | INFO | [tw] SHOP_META_SWIPE_END not found, use cn server assets                              
+2023-10-27 23:59:30.885 | INFO | [tw] MATERIAL_ENTER not found, use cn server assets                                   
+2023-10-27 23:59:30.886 | INFO | [jp] RETIRE_SETTING_2 not found, use cn server assets                                 
+2023-10-27 23:59:30.888 | INFO | [tw] RETIRE_SETTING_2 not found, use cn server assets                                 
+2023-10-27 23:59:30.961 | INFO | Module: minigame(27)                                                                  
+2023-10-27 23:59:30.971 | INFO | [tw] SHOP_PROTOTYPE_SWIPE_END not found, use cn server assets                         
+2023-10-27 23:59:30.984 | INFO | [jp] RETIRE_SETTING_3 not found, use cn server assets                                 
+2023-10-27 23:59:30.988 | INFO | [tw] RETIRE_SETTING_3 not found, use cn server assets                                 
+2023-10-27 23:59:31.088 | INFO | [jp] RETIRE_SETTING_4 not found, use cn server assets                                 
+2023-10-27 23:59:31.094 | INFO | [tw] RETIRE_SETTING_4 not found, use cn server assets                                 
+2023-10-27 23:59:31.208 | INFO | [jp] RETIRE_SETTING_5_ALL not found, use cn server assets                             
+2023-10-27 23:59:31.221 | INFO | [tw] RETIRE_SETTING_5_ALL not found, use cn server assets                             
+2023-10-27 23:59:31.317 | INFO | [jp] RETIRE_SETTING_5_PRESERVE not found, use cn server assets                        
+2023-10-27 23:59:31.319 | INFO | [tw] RETIRE_SETTING_5_PRESERVE not found, use cn server assets                        
+2023-10-27 23:59:31.363 | INFO | [tw] SELECT_ARCHIVE not found, use cn server assets                                   
+2023-10-27 23:59:31.433 | INFO | Module: storage(19)                                                                   
+2023-10-27 23:59:31.686 | INFO | [tw] META_INNER_PAGE_DAMAGE not found, use cn server assets                           
+2023-10-27 23:59:31.843 | INFO | [tw] META_INNER_PAGE_NOT_DAMAGE not found, use cn server assets                       
+2023-10-27 23:59:32.027 | INFO | [tw] CAMPAIGN_MENU_NO_EVENT not found, use cn server assets                           
+2023-10-27 23:59:32.429 | INFO | Module: os_ash(34)                                                                    
+2023-10-27 23:59:32.497 | INFO | Module: shop(31)                                                                      
+2023-10-27 23:59:32.674 | INFO | [jp] GORIZIA_OCR_REMAIN_EX not found, use cn server assets                            
+2023-10-27 23:59:32.676 | INFO | [tw] GORIZIA_OCR_REMAIN_EX not found, use cn server assets                            
+2023-10-27 23:59:32.759 | INFO | [tw] ZONE_ARCHIVE not found, use cn server assets                                     
+2023-10-27 23:59:32.956 | INFO | Module: shipyard(20)                                                                  
+2023-10-27 23:59:33.031 | INFO | [tw] TEMPLATE_FLEET_1 not found, use cn server assets                                 
+2023-10-27 23:59:33.045 | INFO | [tw] TEMPLATE_FLEET_2 not found, use cn server assets                                 
+2023-10-27 23:59:33.061 | INFO | [tw] TEMPLATE_FLEET_3 not found, use cn server assets                                 
+2023-10-27 23:59:33.078 | INFO | [tw] TEMPLATE_FLEET_4 not found, use cn server assets                                 
+2023-10-27 23:59:33.093 | INFO | [tw] TEMPLATE_FLEET_5 not found, use cn server assets                                 
+2023-10-27 23:59:33.109 | INFO | [tw] TEMPLATE_FLEET_6 not found, use cn server assets                                 
+2023-10-27 23:59:33.131 | INFO | [tw] GORIZIA_RAID_EASY not found, use cn server assets                                
+2023-10-27 23:59:33.149 | INFO | [tw] TEMPLATE_IN_BATTLE not found, use cn server assets                               
+2023-10-27 23:59:33.164 | INFO | [tw] TEMPLATE_IN_COMMISSION not found, use cn server assets                           
+2023-10-27 23:59:33.171 | INFO | [en] TEMPLATE_IN_EVENT_FLEET not found, use cn server assets                          
+2023-10-27 23:59:33.173 | INFO | [jp] TEMPLATE_IN_EVENT_FLEET not found, use cn server assets                          
+2023-10-27 23:59:33.175 | INFO | [tw] TEMPLATE_IN_EVENT_FLEET not found, use cn server assets                          
+2023-10-27 23:59:33.216 | INFO | Module: retire(51)                                                                    
+2023-10-27 23:59:33.233 | INFO | Module: map(29)                                                                       
+2023-10-27 23:59:33.404 | INFO | [tw] GORIZIA_RAID_HARD not found, use cn server assets                                
+2023-10-27 23:59:33.535 | INFO | [tw] GORIZIA_RAID_NORMAL not found, use cn server assets                              
+2023-10-27 23:59:33.563 | INFO | [tw] MISSION_OVERVIEW_ACCEPT_SINGLE not found, use cn server assets                   
+2023-10-27 23:59:34.069 | INFO | Module: os(38)                                                                        
+2023-10-27 23:59:34.765 | INFO | [tw] KUYBYSHEY_OCR_PT not found, use cn server assets                                 
+2023-10-27 23:59:34.891 | INFO | [tw] KUYBYSHEY_OCR_REMAIN_EASY not found, use cn server assets                        
+2023-10-27 23:59:34.969 | INFO | [jp] KUYBYSHEY_OCR_REMAIN_EX not found, use cn server assets                          
+2023-10-27 23:59:34.971 | INFO | [tw] KUYBYSHEY_OCR_REMAIN_EX not found, use cn server assets                          
+2023-10-27 23:59:34.985 | INFO | Module: meowfficer(37)                                                                
+2023-10-27 23:59:35.114 | INFO | [tw] KUYBYSHEY_OCR_REMAIN_HARD not found, use cn server assets                        
+2023-10-27 23:59:35.255 | INFO | [tw] KUYBYSHEY_OCR_REMAIN_NORMAL not found, use cn server assets                      
+2023-10-27 23:59:35.368 | INFO | [tw] KUYBYSHEY_RAID_EASY not found, use cn server assets                              
+2023-10-27 23:59:35.397 | INFO | Module: combat(44)                                                                    
+2023-10-27 23:59:35.433 | INFO | [jp] KUYBYSHEY_RAID_EX not found, use cn server assets                                
+2023-10-27 23:59:35.435 | INFO | [tw] KUYBYSHEY_RAID_EX not found, use cn server assets                                
+2023-10-27 23:59:35.548 | INFO | [tw] KUYBYSHEY_RAID_HARD not found, use cn server assets                              
+2023-10-27 23:59:35.683 | INFO | [tw] KUYBYSHEY_RAID_NORMAL not found, use cn server assets                            
+2023-10-27 23:59:36.018 | INFO | [tw] OS_GAME_TIPS not found, use cn server assets                                     
+2023-10-27 23:59:36.131 | INFO | [tw] OS_MONTHBOSS_HARD not found, use cn server assets                                
+2023-10-27 23:59:36.245 | INFO | [tw] OS_MONTHBOSS_NORMAL not found, use cn server assets                              
+2023-10-27 23:59:36.412 | INFO | [jp] MONTHLY_PASS_NOTICE not found, use cn server assets                              
+2023-10-27 23:59:36.414 | INFO | [tw] MONTHLY_PASS_NOTICE not found, use cn server assets                              
+2023-10-27 23:59:37.167 | INFO | Module: raid(54)                                                                      
+2023-10-27 23:59:37.529 | INFO | Module: research(65)                                                                  
+2023-10-27 23:59:37.778 | INFO | [tw] RESET_FLEET_PREPARATION not found, use cn server assets                          
+2023-10-27 23:59:37.966 | INFO | [tw] RESET_TICKET_POPUP not found, use cn server assets                               
+2023-10-27 23:59:37.971 | INFO | [jp] MAIN_GOTO_STORAGE not found, use cn server assets                                
+2023-10-27 23:59:37.973 | INFO | [tw] MAIN_GOTO_STORAGE not found, use cn server assets                                
+2023-10-27 23:59:39.296 | INFO | [tw] STRATEGIC_SEARCH_DEVICE_CONTINUE not found, use cn server assets                 
+2023-10-27 23:59:39.394 | INFO | [tw] STRATEGIC_SEARCH_DEVICE_STOP not found, use cn server assets                     
+2023-10-27 23:59:39.408 | INFO | [tw] RESHMENU_GOTO_META not found, use cn server assets                               
+2023-10-27 23:59:39.572 | INFO | [tw] VOTE_CANCEL not found, use cn server assets                                      
+2023-10-27 23:59:39.574 | INFO | Module: handler(85)                                                                   
+2023-10-27 23:59:39.655 | INFO | [tw] STRATEGIC_SEARCH_MERCHANT_CONTINUE not found, use cn server assets               
+2023-10-27 23:59:39.745 | INFO | [tw] STRATEGIC_SEARCH_MERCHANT_STOP not found, use cn server assets                   
+2023-10-27 23:59:39.852 | INFO | [tw] REWARD_GOTO_BATTLE_PASS not found, use cn server assets                          
+2023-10-27 23:59:39.979 | INFO | [tw] STRATEGIC_SEARCH_SCROLL_AREA not found, use cn server assets                     
+2023-10-27 23:59:40.216 | INFO | [tw] STRATEGIC_SEARCH_SUBMIT_OFF not found, use cn server assets                      
+2023-10-27 23:59:40.310 | INFO | [tw] STRATEGIC_SEARCH_SUBMIT_ON not found, use cn server assets                       
+2023-10-27 23:59:40.538 | INFO | [tw] STRATEGIC_SEARCH_ZONEMODE_RANDOM not found, use cn server assets                 
+2023-10-27 23:59:40.643 | INFO | [tw] STRATEGIC_SEARCH_ZONEMODE_REPEAT not found, use cn server assets                 
+2023-10-27 23:59:40.713 | INFO | Module: os_handler(83)                                                                
+2023-10-27 23:59:41.347 | INFO | [tw] STORAGE_CHECK not found, use cn server assets                                    
+2023-10-27 23:59:41.935 | INFO | Module: ui(81)                                                                        
